@@ -6,5 +6,6 @@
 # [Tommys grymma Stuvade Makaroner](https://www.arla.se/recept/stuvade-makaroner/)
 # [Tommys grymma Falukorv i ugn](https://www.arla.se/recept/falukorv-i-ugn/)
 # [Tommys grymma Köttfärslimpa](https://www.arla.se/recept/kottfarslimpa/)
+# [Tommys grymma Köttbullar](https://www.arla.se/recept/kottbullar/)
 
 
