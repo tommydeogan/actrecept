@@ -1,3 +1,6 @@
+<img width="700" height="500" alt="vegetariskmat" src="https://github.com/user-attachments/assets/2f12c140-eec4-497f-808c-a558e780a00e" />
+
+
 # Vegetariska recept
  
 ## [Asiatiskt Nudelsallad med hoisinfärs](https://www.koket.se/asiatisk-nudelsallad-med-hoisinfars)
