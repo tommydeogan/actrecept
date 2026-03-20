@@ -2,7 +2,6 @@
 ## Svenska måltider 
 
 # Tommys grymma Kycklinglasagne 
-## Kycklinglasagne med spenat och paprika
 
 ### Lasagne med kyckling
 För: 6 personer
